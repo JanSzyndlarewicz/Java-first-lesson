@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ee128f-6e96-4275-9f0d-3ea243d73541" name="Changes" comment="Initial commit" />
+    <list default="true" id="83ee128f-6e96-4275-9f0d-3ea243d73541" name="Changes" comment="Sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="X_and_Y" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671024956362</updated>
-      <workItem from="1671024958254" duration="675000" />
+      <workItem from="1671024958254" duration="1054000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1671025617455</created>
@@ -50,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671025617455</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="X and Y">
+      <created>1671025692490</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671025692490</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Sum">
+      <created>1671025802104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671025802104</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -69,6 +88,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="X and Y" />
+    <MESSAGE value="Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum" />
   </component>
 </project>
